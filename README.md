@@ -1,2 +1,3 @@
-# git-lab
-Nauka
+=======
+To jest plik README
+
