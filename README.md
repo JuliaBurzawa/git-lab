@@ -1,3 +1,3 @@
-To jest plik README
+To jest plik README.
 
-To jest nowa funkcjonalność
+To jest nowa funkcjonalność.
