@@ -1,3 +1,3 @@
-To jest plik README.
+To jest plik README - zmiana lokalna.
 
 To jest nowa funkcjonalność.
